@@ -1,16 +1,16 @@
-Hi 👋 My name is Zayed Haque
+Hello! My name is Zayed Haque
 ============================
 
-Aspiring Data Scientist
+ML Enthusiast
 -----------------------
 
 Hi there! I'm an aspiring data scientist who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills, particularly in databases and machine learning, and a strong academic background in Computers, Physics, and Math. I am currently pursuing my B.Tech in Computer Science and Technology specialization in Data Science
 
-* 🌍  I'm based in Chennai,India
-* ✉️  You can contact me at [zayedsh2003@gmail.com](mailto:zayedsh2003@gmail.com)
-* 🧠  I'm learning Machine Learning, Neural Networks and Data Structures and Algorithms
-* 🤝  I'm open to collaborating on projects related to Machine Learning
-* ⚡  No matter what anybody tells you, words and ideas can change the world.
+*  I'm based in Chennai,India
+*  You can contact me at [zayedsh2003@gmail.com](mailto:zayedsh2003@gmail.com)
+*  I'm learning Machine Learning, Neural Networks and Data Structures and Algorithms
+*  I'm open to collaborating on projects related to Machine Learning
+*  No matter what anybody tells you, words and ideas can change the world.
 
 ### Skills
 
