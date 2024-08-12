@@ -8,9 +8,7 @@ Hi there! I'm an aspiring data scientist who loves finding patterns and connecti
 
 *  I'm based in Chennai,India
 *  You can contact me at [zayedsh2003@gmail.com](mailto:zayedsh2003@gmail.com)
-*  I'm learning Machine Learning, Neural Networks and Data Structures and Algorithms
-*  I'm open to collaborating on projects related to Machine Learning
-*  No matter what anybody tells you, words and ideas can change the world.
+*  Ex-SWE Intern at Coinbase
 
 ### Skills
 
@@ -28,13 +26,3 @@ Hi there! I'm an aspiring data scientist who loves finding patterns and connecti
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/boomchilx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zayed-haque-b9448419a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17379531/enigma?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Zayed_Haque" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zayed-haque"><img src="https://github-readme-stats.vercel.app/api?username=zayed-haque&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boomchilx's GitHub stats" /></a>
-
-<a href="http://www.github.com/zayed-haque"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zayed-haque&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/zayed-haque" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayed-haque&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
