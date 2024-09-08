@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VxcTFuN2s0Yzl0a3c4N241ejRpc3lic2t1cXoxaWw2MmY0eHI4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8oPkn7Hl79J6g/giphy.gif"  />
+<img align="left" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VxcTFuN2s0Yzl0a3c4N241ejRpc3lic2t1cXoxaWw2MmY0eHI4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8oPkn7Hl79J6g/giphy.gif"  />
 
 ###
 
@@ -118,7 +118,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zayed-haque&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zayed-haque&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayed-haque&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
