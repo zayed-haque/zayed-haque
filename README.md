@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student specializing in Data Science, focusing on backend development, Machine Learning (ML), and MLOps. <br><br>SWE Intern at TurboML<br><br> <br><br>Ex-SWE Intern at Coinbase and Kelly Technology<br><br>My technical interests include:<br>Developing scalable backend systems and APIs<br>Implementing and deploying ML models, including Large Language Models (LLMs)<br>Building ML pipelines and MLOps infrastructure<br>Optimizing data processing and storage solutions<br><br>My goal is to bridge the gap between cutting-edge ML research and production-ready systems.</p>
+<p align="left">I'm a Computer Science student specializing in Data Science, focusing on backend development, Machine Learning (ML), and MLOps. <br><br>SWE Intern at TurboML<br><br> Ex-SWE Intern at Coinbase and Kelly Technology<br><br>My technical interests include:<br>Developing scalable backend systems and APIs<br>Implementing and deploying ML models, including Large Language Models (LLMs)<br>Building ML pipelines and MLOps infrastructure<br>Optimizing data processing and storage solutions<br><br>My goal is to bridge the gap between cutting-edge ML research and production-ready systems.</p>
 
 ###
 
