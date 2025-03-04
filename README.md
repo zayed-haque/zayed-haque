@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/zayed-haque/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/17379531/enigma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
-  </a>
 </div>
 
 ###
